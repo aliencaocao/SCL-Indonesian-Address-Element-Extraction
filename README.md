@@ -21,7 +21,6 @@ Achieved 0.40125 score on Kaggle private leaderboard, F1 of 0.8713461, precision
 Usage:
 1. data cleaning.py
 2. data prep.py
-NOTE: things below have not refractored for the time logging
 3. build_vocab.py
 4. build_glove.py (download and put glove glove.840B.300d.txt in root folder)
 5. Main.py (modified DATADIR)
