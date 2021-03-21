@@ -2,7 +2,7 @@
 Shopee Code League 2021 Data Science Competition
 
 Only supports up to Tensor Flow 1.14 and Python 3.7. For GPU accleration, Nvidia CUDA 10.0 and cuDNN 7.2 is required.
-Training time is about 30min, prediction time is about 17min
+Training time is about 30min, prediction time is about 17min. Tested on AMD 3700X with RTX 2060 Super.
 
 Credit to Guillaume Genthial (https://guillaumegenthial.github.io) for original code and idea. This repo is modified based on the chars-lstm-lstm-crf model.
 
