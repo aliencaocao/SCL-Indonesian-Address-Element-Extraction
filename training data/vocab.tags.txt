@@ -1,0 +1,7 @@
+B-POI
+B-STR
+E-POI
+E-STR
+I-POI
+I-STR
+O
