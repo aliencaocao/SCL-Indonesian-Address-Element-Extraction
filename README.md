@@ -1,6 +1,9 @@
 # SCL-Indonesian-Address-Element-Extraction
 Shopee Code League 2021 Data Science Competition
 
+Only supports up to Tensor Flow 1.14 and Python 3.7. For GPU accleration, Nvidia CUDA 10.0 and cuDNN 7.2 is required.
+Training time is about 30min, prediction time is about 17min
+
 1. data cleaning.py
 2. data prep.py
 NOTE: things below have not refractored for the time logging
