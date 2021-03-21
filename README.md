@@ -7,11 +7,12 @@ Training time is about 30min, prediction time is about 17min
 Credit to Guillaume Genthial (https://guillaumegenthial.github.io) for original code and idea. This repo is modified based on the chars-lstm-lstm-crf model.
 
 Model Arch:
-GloVe 840B vectors
-Chars embeddings
-Chars Bi-LSTM
-Bi-LSTM
-CRF (Conditional Random Field) using IOBES tagging scheme
+
+1. GloVe 840B vectors
+2. Chars embeddings
+3. Chars Bi-LSTM with dropout = 0.125
+4. Bi-LSTM with dropout = 0.125
+5. CRF (Conditional Random Field) using IOBES tagging scheme
 
 Related Paper Neural Architectures for Named Entity Recognition by Lample et al.
 
